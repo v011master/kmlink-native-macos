@@ -1,0 +1,19 @@
+.DS_Store
+.build/
+.cache/
+.swiftpm/
+DerivedData/
+build/
+*.log
+
+# Local research downloads and authenticated browser state.
+sanwa-fw/
+cookies.txt
+
+# Locally built reverse-engineering helpers.
+tools/interpose/*.dylib
+tools/legacy-oti-mode/OTiModeProbe.app/
+tools/legacy-oti-mode/otimode_probe.x86_64
+
+# Proprietary vendor frameworks must never be committed.
+OTiTransfer.framework/
