@@ -37,7 +37,7 @@ OTi/GO! Bridge 方案的 USB 键鼠共享线，并与 Windows 电脑共享键盘
 ## 快速安装
 
 ```bash
-git clone https://github.com/ccloving2007/kmlink-native-macos.git
+git clone https://github.com/v011master/kmlink-native-macos.git
 cd kmlink-native-macos
 ./scripts/build-app.sh
 open build/KMLinkNative.app
@@ -101,4 +101,3 @@ open build/KMLinkNative.app
 
 本项目源码采用 [MIT License](LICENSE)。厂商软件、固件和私有 framework
 不在此许可证范围内。
-

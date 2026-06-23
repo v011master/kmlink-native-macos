@@ -19,7 +19,7 @@ swift --version
 ## 2. 获取源码
 
 ```bash
-git clone https://github.com/ccloving2007/kmlink-native-macos.git
+git clone https://github.com/v011master/kmlink-native-macos.git
 cd kmlink-native-macos
 ```
 
@@ -134,4 +134,3 @@ Windows 端键盘、鼠标、滚轮和双向剪贴板人工验收：
 
 确认程序稳定后，可在“系统设置 -> 通用 -> 登录项”中添加
 `KMLinkNative.app`。建议先完成一次完整人工验收，再设置自动启动。
-
